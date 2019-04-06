@@ -1,3 +1,3 @@
 # f-weather
 
-made with react-native
+made with react-native.
