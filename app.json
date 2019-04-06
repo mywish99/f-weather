@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "f-weather",
-    "slug": "fxxxx weather",
+    "slug": "f-weather",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
