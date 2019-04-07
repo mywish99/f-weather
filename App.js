@@ -5,7 +5,7 @@ export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Open up App.js!!! 이제는 바뀌나??</Text>
+        <Text>Open up App.js!!! 이제는 오래?? this??</Text>
       </View>
     );
   }
